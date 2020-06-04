@@ -1,0 +1,22 @@
+Apple Store University Village,Islamic House,Woodland Park Zoo,Fremont Troll,Gas Works Park,Slave to the Needle,University Book Store,Queen Mary Tea Room,Magnuson Park,University Presbyterian Church
+Bellevue Square,Uwajimaya,Lincoln Park,Seward Park,Issaquah Salmon Hatchery,Mercer Island Park and Ride
+Burke Museum of Natural History and Culture,University of Washington Medical Center,Apple Store University Village,Islamic House,Woodland Park Zoo,Fremont Troll,Gas Works Park
+Fremont Troll,Gas Works Park,Slave to the Needle,Discovery Park
+Holiday Inn Seattle Airport,Seward Park,Lincoln Park,Duthie Hill Park
+Islamic House,University Book Store,Queen Mary Tea Room,Magnuson Park,University Presbyterian Church
+Issaquah Salmon Hatchery,Duthie Hill Park
+Key Arena,Seattle Art Museum,Westlake Center,Paramount Theatre,Showbox at the Market
+Lincoln Park,Uwajimaya,Seward Park,Seattle Art Museum,Mercer Island Park and Ride,CenturyLink Field
+Magnuson Park,University Presbyterian Church
+Paramount Theatre,Showbox at the Market
+Pike Place Market,Key Arena,Seattle Art Museum,Seattle Central Library,Seattle Aquarium,Westlake Center,Whole Foods Market,Paramount Theatre,Showbox at the Market,CenturyLink Field
+Queen Mary Tea Room,Magnuson Park,University Presbyterian Church
+Safeway,University of Washington Medical Center,Burke Museum of Natural History and Culture,Gas Works Park
+Seattle Aquarium,Westlake Center,Key Arena,Whole Foods Market
+Seattle Central Library,Seattle Art Museum,Key Arena,Seattle Aquarium,Westlake Center,Whole Foods Market,Mercer Island Park and Ride
+Seward Park,Uwajimaya,Seattle Art Museum,Mercer Island Park and Ride,CenturyLink Field
+University of Washington Medical Center,Apple Store University Village,Islamic House,Woodland Park Zoo,Fremont Troll,Gas Works Park,University Book Store,Queen Mary Tea Room,Magnuson Park,University Presbyterian Church
+Uwajimaya,Issaquah Salmon Hatchery,Mercer Island Park and Ride
+Westlake Center,Paramount Theatre,Showbox at the Market
+Whole Foods Market,Safeway
+Woodland Park Zoo,Fremont Troll,Gas Works Park,Discovery Park,Slave to the Needle

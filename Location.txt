@@ -1,0 +1,243 @@
+7-Eleven,47.6591,-122.31297
+Aladdin Falafel Corner,47.66253,-122.31312
+Aladdin Gyro-Cery,47.65799,-122.31337
+American Apparel,47.66113,-122.31347
+Apple Store University Village,47.66336,-122.29859
+Apple Store,47.66336,-122.29859
+Archie McPhee,47.661478,-122.34161
+Asgard Tavern,47.648383,-122.342147
+BC Surf & Sport,47.66169,-122.313
+Bartell Drugs,47.66123,-122.31308
+Bellevue Square,47.61716,-122.20239
+Benaroya Hall,47.60783,-122.33755
+Beth's Cafe,47.682171,-122.344673
+Big Time Brewery & Alehouse,47.65795,-122.31336
+Bobat Grill,47.66435,-122.3176
+Bombay Grill,47.66425,-122.31772
+Burger Hut,47.65764,-122.31297
+Burke Museum of Natural History and Culture,47.66068,-122.31053
+Cafe Solstice,47.65768,-122.31312
+Canlis,47.643092,-122.346792
+Card Kingdom,47.66504,-122.38051
+Cedars Restaurant,47.66476,-122.3145
+Center for Wooden Boats,47.626417,-122.335841
+Central Washington U,47.00002,-120.54431
+Century Link Field,47.59454,-122.33139
+CenturyLink Field,47.59329,-122.33331
+CenturyLink Field,47.59515,-122.3316
+Centurylink Field,47.59329,-122.33331
+Centurylink Field,47.595283,-122.331612
+Chihuly Garden and Glass,47.620484,-122.350451
+Chili's South Indian Restaurant,47.66508,-122.31291
+Chipotle Mexican Grill,47.65934,-122.31332
+Chipotle Mexican Grill,47.65936,-122.31313
+Chipotle,47.65934,-122.31332
+Chocolate Box,47.610069,-122.340629
+Church of the Undignified,47.61742,-122.32926
+Cloud City Coffee,47.692346,-122.317894
+Congregation Beth Shalom,47.67807,-122.28998
+Crocodile Cafe,47.6136,-122.34427
+Dairy Queen,47.58182,-122.14134
+Department of Electrical Engineering,47.65319,-122.30571
+Dick's Drive In,47.66112,-122.32779
+Dick's Drive In,47.661201,-122.327746
+Dick's Drive-In,47.66112,-122.32779
+Dick's Drive-In,47.66112,-122.32779
+Discovery Park,47.66012,-122.4185
+Discovery Park,47.661399,-122.415947
+District Market,47.65598,-122.31401
+Duthie Hill Park,47.583835,-121.977233
+EMP Museum,47.621561,-122.348118
+EMP Museum,47.62159,-122.348301
+Eddie Bauer,47.66336,-122.29826
+Egyptian Theater,47.61512,-122.32176
+Eleven 01,47.65587,-122.31623
+Ellensburg FairGrounds,46.99821,-120.53171
+Ellensburg High School,46.99339,-120.52716
+Ellensburg Pasta Co.,46.99651,-120.54785
+Experience Music Project Museum,47.6215,-122.3486
+Experience Music Project,47.62145,-122.34828
+Fred Meyer's,47.66018,-122.36879
+Fremont Troll,47.65113,-122.347361
+Gameworks,47.61206,-122.33396
+Gargoyle's,47.66279,-122.31309
+Gas Works Park,47.64686,-122.33391
+Gas Works Park,47.64686,-122.33391
+Gas Works Park,47.64686,-122.33391
+Gasworks Park,47.646858,-122.333914
+Gasworks Park,47.64686,-122.33391
+Gene Juarez Salon & Spa,47.66478,-122.298091
+Golden Gardens,47.688143,-122.402547
+Grand Illusion Cinema,47.66484,-122.31308
+Grand Meridian Cinema,46.98217,-120.54029
+Green Lake Park,47.68136,-122.34184
+Greenlake Park Dirtjumps,47.666991,-122.342293
+Gregg's Greenlake Cycle,47.679575,-122.324903
+Guild 45th Theater,47.6611,-122.33301
+H&M,47.61123,-122.33499
+Hall Health Primary Care Center,47.65622,-122.30421
+Harvard Exit Theater,47.62496,-122.32167
+Hec Edmundson Pavilion,47.65195,-122.30316
+Ho Ho Seafood Restaurant,47.59743,-122.32484
+Holiday Inn Seattle Airport,47.44701,-122.29572
+Hot Cakes Molten Chocolate Cakery,47.66796,-122.385271
+Husky Grind at Mercer Court,47.6548,-122.31713
+Husky Union Building,47.65583,-122.30462
+I-5 Colonnade,47.635162,-122.323497
+IMA,47.65361,-122.30165
+Irene Rinehart Park,46.99267,-120.57695
+Islamic House,47.6626,-122.30463
+Issaquah Salmon Hatchery,47.53017,-122.03927
+Jewel of India,47.66416,-122.3132
+Key Arena,47.62211,-122.35405
+Key Arena,47.622114,-122.35405
+KeyArena,47.62229,-122.33963
+Kubota Garden,47.51283,-122.26503
+Landmark Guild 45th,47.6611,-122.33301
+Landmark Theatres Varsity,47.6607,-122.31348
+Landmark Varsity Theatre,47.661023,-122.313305
+Lincoln Park,47.52982,-122.3973
+Magnuson Park,47.6789,-122.25705
+Marymoor Park,47.66452,-122.11442
+McDonald's,47.66764,-122.30038
+McDonald's,47.66769,-122.30037
+McDonald's,47.66769,-122.30037
+McElroy Park,47.00997,-120.52551
+Mercer Island Park and Ride,47.58875,-122.23152
+Microsoft Store,47.66328,-122.30075
+Microsoft Store,47.66328,-122.30075
+Molly Moon's Homemade Ice Cream,47.66179,-122.30341
+Molly Moon's,47.662194,-122.338085
+Mr. Villa,47.68781,-122.31161
+Museum of Flight,47.51836,-122.29637
+Museum of History and Industry,47.62768,-122.33674
+Niketown,47.61116,-122.33446
+Nordstrom,47.61229,-122.33628
+Odd Fellows Cafe,47.614886,-122.31958
+Odd Fellows Cafe,47.619587,-122.320404
+Odegaard Undergraduate Library (OUG),47.65682,-122.3107
+Odegaard Undergraduate Library,47.6553,-122.31165
+Olympic Sculpture Park,47.6169,-122.35645
+Original Starbucks,47.61015,-122.34248
+PCC Natural Markets,47.650082,-122.350963
+Pacific Place,47.61251,-122.33541
+Pacific Place,47.612514,-122.335409
+Pacific Science Center,47.619777,-122.352856
+Pacific Science Center,47.61978,-122.35286
+Panama Hotel,47.59986,-122.32599
+Paramount Theatre,47.606209,-122.332071
+Paramount Theatre,47.61348,-122.33173
+Paseo,47.658624,-122.350105
+Peace Park,4765577,-122.31939
+Performance Bicycle,47.661473,-122.317779
+Pie,47.65114,-122.35023
+Pike Place Market,47.60865,-122.34059
+Pike Place Market,47.60865,-122.34059
+Pike Place Market,47.60865,-122.34059
+Pike Place Market,47.60865,-122.34059
+Pike Place Market,47.60894,-122.34038
+Pike Place Market,47.6094,-122.3417
+Pike Place Market,47.6101359,-122.3420567
+Pikes Place Chowder,47.60852,-122.34052
+Pink Door,47.61114,-122.342634
+Portage Bay,47.657684,-122.3177
+Purple Dot Cafe,47.59768,-122.32574
+Queen Mary Tea Room,47.66863,-122.2956
+R & E Cycles Repair,47.67028,-122.31327
+Ram Restaurant & Brewery,47.6646,-122.29881
+Recycled Cycles,47.65298,-122.31753
+Ruzhen Mongolian Grill,47.66197,-122.31347
+SIFF Cinema Uptown,47.62354,-122.35671
+Safeco Field,47.5914,-122.332485
+Safeco Field,47.59149,-122.33225
+Safeco Field,47.59149,-122.33225
+Safeway on the Ave,47.66427,-122.31389
+Safeway,47.62051,-122.31348
+Safeway,47.66199,-122.29492
+Safeway,47.66199,-122.29492
+Safeway,47.66415,-122.314
+Safeway,47.6642,-122.31387
+Safeway,47.66427,-122.31389
+Saint Edward State Park,47.732786,-122.256378
+Seattle Aquarium,47.60611,-122.34248
+Seattle Aquarium,47.60738,-122.34245
+Seattle Aquarium,47.60745,-122.34237
+Seattle Aquarium,47.60745,-122.34237
+Seattle Aquarium,47.60745,-122.34237
+Seattle Aquarium,47.6077,-122.3431
+Seattle Art Museum,47.6072,-122.3381
+Seattle Art Museum,47.60723,-122.33781
+Seattle Art Museum,47.60723,-122.33781
+Seattle Art Museum,47.60723,-122.33781
+Seattle Art Museum,47.60723,-122.33781
+Seattle Art Museum,47.607306,-122.338183
+Seattle Art Museum,47.61108,-122.33819
+Seattle Bouldering Project,47.59459,-122.30872
+Seattle Central Library,47.6066,-122.33298
+Seattle Central Library,47.606829,-122.33296
+Seattle Great Wheel,47.606054,-122.341035
+Seattle Great Wheel,47.606195,-122.34249
+Seattle Tower,47.61372,-122.33563
+Seward Park,47.33118,-122.150065
+Seward Park,47.55364,-122.25182
+Seward Park,47.556314,-122.252175
+Shalimar Restaurant,47.659,-122.31319
+Shalimar,47.65877,-122.31287
+Showbox at the Market,47.60851,-122.33952
+Shultzy's Sausage,47.6573,-122.31312
+Similan Thai Cuisine,47.55091,-122.04171
+Skillet Diner,47.619356,-122.314568
+Slave to the Needle,47.67609,-122.36291
+Somtam Thai,47.66422,-122.31273
+Space Needle,47.6204,-122.3491
+Space Needle,47.62049,-122.34965
+Space Needle,47.62049,-122.34965
+Space Needle,47.6205063,-122.3492774
+Space Needle,47.62051,-122.34928
+Space Needle,47.62051,-122.34928
+Space Needle,47.622711,-122.349098
+Starbucks,47.65847,-122.31318
+Starbucks,47.66286,-122.31326
+Thai Tom,47.66258,-122.31312
+Thai Tom,47.662974,-122.313194
+Thaiger Room,43.6592,-122.31309
+Thaiger Room,47.65921,-122.31309
+The Center For Yoga of Seattle,47.67555,-122.30319
+The Melting Pot,47.62469,-122.35616
+The Old Spaghetti Factory,47.61532,-122.35405
+The Palace Cafe,46.99651,-120.54785
+The Triple Door,47.669397,-122.196923
+Tillicum village,47.60481,-122.33993
+Top Pot Doughnuts,47.67916,-122.29064
+Toulouse Petit,47.626124,-122.35714
+Triple XXX Root Beer,47.5379,-122.03502
+Trophy Cupcakes,47.66328,-122.30075
+UW Odegaard Undergraduate Library,47.65947,-122.31035
+UW Tower,47.66073,-122.31468
+Underwater Sports,47.70629,-122.34513
+University Book Store,47.66062,-122.31294
+University Presbyterian Church,47.66286,-122.31158
+University True Value,47.664,-122.31342
+University Village,47.662714,-122.297165
+University of Washington Medical Center,47.64929,-122.30685
+Urban Outfitters,47.66187,-122.31278
+Uwajimaya,47.59672,-122.32703
+Uwajimaya,47.59672,-122.32703
+Uwajimaya,47.59672,-122.32703
+Vios Caffee At Third Place,47.67588,-122.30686
+Washington Park Arboretum,47.635939,-122.293384
+Washington Park Arboretum,47.639832,-122.294151
+Washington Park Arboretum,47.64832,-122.2758
+Washington State Ferries,47.60268,-122.33774
+Wayward Vegan Cafe,47.66788,-122.31315
+Westlake Center,47.61145,-122.33747
+Whole Foods Market,47.67512,-122.3161
+Wild Waves Theme Park,47.27425,-122.31048
+Winegar's Ice Cream,47.00219,-120.53205
+Woodland Park Zoo,47.6683,-122.3498
+Woodland Park Zoo,47.668993,-122.353504
+Woodland Park Zoo,47.670218,-122.353579
+Woodland Park Zoo,47.67022,-122.35358
+Woodland Park Zoo,47.719001,-122.352419
+Yummy Bites,47.6578,-122.31337
+Zoka Coffee Roaster & Tea Co,47.655704,-122.373061
